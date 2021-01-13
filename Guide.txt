@@ -1,0 +1,8 @@
+------------------------------Overview of what each folder contains------------------------------
+Animations:  	    Contains the two animations I created, as well as the GrassHopper scripts 
+		    used to create them. Both animations are 960x540p.
+Final Model: 	    Contains the final daytime and nighttime models of the Turning Torso
+Model Construction: Contains a model from before my GrassHopper scripts were ran, as well as 
+		    the result after they ran. Both GrassHopper scripts are also included in this
+		    folder.
+Still Renders:	    Contains seven 1920x1080p renderings of my final model
